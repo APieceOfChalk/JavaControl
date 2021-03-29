@@ -1,0 +1,12 @@
+com/example/mamedova_kr/entity/Category.class
+com/example/mamedova_kr/repository/CategoryRepository.class
+com/example/mamedova_kr/entity/Task.class
+com/example/mamedova_kr/service/CategoryService.class
+com/example/mamedova_kr/service/UserService.class
+com/example/mamedova_kr/repository/TaskRepository.class
+com/example/mamedova_kr/entity/General.class
+com/example/mamedova_kr/entity/User.class
+com/example/mamedova_kr/MamedovaKrApplication.class
+com/example/mamedova_kr/repository/UserRepository.class
+com/example/mamedova_kr/service/TaskService.class
+com/example/mamedova_kr/controller/RestApiController.class
